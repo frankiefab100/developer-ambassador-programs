@@ -65,6 +65,7 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 
 ## M - R
 
+* [MATLAB Student Ambassador](https://www.mathworks.com/academia/students/student-ambassadors.html) - Represent MathWorks on campus by hosting MATLAB and Simulink events and engaging students on social media. A paid position (~5 hrs/week) that builds public speaking, networking, and technical skills. * For students only.
 * [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp) - The Microsoft MVP Program connects technical community leaders with Microsoft to promote engagement, advocacy, and knowledge sharing on Microsoft Products & Services.
 * [Microsoft Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors) - Students who are passionate about building AI-driven solutions with Microsoft technology. Accelerate innovation and grow the skills you need to have greater impact in the projects and communities that matter to you. * For students only.
 * [Mistral AI Ambassadors](https://docs.mistral.ai/ambassadors) - Mistral experts who are passionate about our models and offerings, and who are committed to giving back to the community and supporting fellow members.
